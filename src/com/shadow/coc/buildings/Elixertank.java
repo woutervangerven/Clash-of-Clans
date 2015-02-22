@@ -77,6 +77,7 @@ public class Elixertank extends Structure {
 			center.add(0, 1, -1).getBlock().setType(Material.STAINED_GLASS);
 			center.add(0, 1, -1).getBlock().setData((byte)2);
 			break;
+			//test
 		case 7:
 			
 		}
